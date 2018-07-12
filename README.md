@@ -1,0 +1,2 @@
+# petrukosd
+script open source
